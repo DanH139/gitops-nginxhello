@@ -1,0 +1,1 @@
+{"jobID":"d3f2f36e-c8a3-8e6c-d93b-2686de920cdb","spec":{"type":"policy","cause":{"Message":"","User":"Daniel \u003cdaniel.hand13@gmail.com\u003e"},"spec":{"default:deployment/nginxhello":{"add":{"automated":"true"},"remove":{}}}},"result":null}
